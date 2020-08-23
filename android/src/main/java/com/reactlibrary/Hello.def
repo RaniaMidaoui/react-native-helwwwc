@@ -1,0 +1,4 @@
+LIBRARY Hello.dll
+
+EXPORTS
+Java_com_reactlibrary_JavaToC_helloC
